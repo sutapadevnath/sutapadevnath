@@ -1,0 +1,1 @@
+$(document).ready((function(){$("#menuModal").fadeOut("fast"),$("#menuBtn").click((function(){$("#menuModal").fadeIn("slow")})),$("#closeMenu").click((function(){$("#menuModal").fadeOut("slow")}))}));
